@@ -1,0 +1,158 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.233) !important;
+  
+  
+}
+
+
+.nav-link {
+  color: rgb(0, 0, 0) !important;
+}
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+#logo1 {
+  float: left;
+  font-size: 1.7em;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+
+
+#home-container {
+  margin-top: 25px;
+}
+.ccimg { background-image: url('https://html5book.ru/wp-content/uploads/2016/09/background74.jpg');}
+.cimg {background-image: url('https://html5book.ru/wp-content/uploads/2016/09/background74.jpg');}
+.jumbotron {
+  background-image: url('https://html5book.ru/wp-content/uploads/2016/09/background74.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+  
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  
+  flex: 1 0 auto;  
+  background-color: rgb(255, 255, 255);
+}
+
+#sticky-footer {
+  
+  
+  
+  background-color: rgba(0, 0, 0, 0.116) !important;
+  flex-shrink: 0;
+  
+  
+}
+
+/* pagination styling */
+
+.flickr_pagination {
+  text-align: center;
+  padding: 0.3em;
+  cursor: default; }
+  .flickr_pagination a, .flickr_pagination span, .flickr_pagination em {
+    padding: 0.2em 0.5em;
+    border-radius: 5px;
+   }
+  .flickr_pagination .disabled {
+    color: #aaaaaa; }
+  .flickr_pagination .current {
+    font-style: normal;
+    font-weight: bold;
+    color: #616161; }
+  .flickr_pagination a {
+    border: 1px solid rgb(221, 221, 221);
+    color: rgb(221, 221, 221);
+    text-decoration: none; }
+    .flickr_pagination a:hover, .flickr_pagination a:focus {
+      border-color: gray;
+      background: rgb(221, 221, 221);
+      color: gray; }
+  .flickr_pagination .page_info {
+    color: #aaaaaa;
+    padding-top: 0.8em; }
+  .flickr_pagination .previous_page, .flickr_pagination .next_page {
+    border-width: 2px; }
+  .flickr_pagination .previous_page {
+    margin-right: 1em; }
+  .flickr_pagination .next_page {
+    margin-left: 1em; }
+  
+    
+  
+.img {
+
+  background-image: url(https://oir.mobi/uploads/posts/2021-03/thumbs/1616993621_29-p-svetlo-serii-fon-dlya-prezentatsii-33.jpg);
+}
+
+ #top {
+
+
+  position: fixed;
+   color: #000000;
+  background-color: #ffffff00; 
+  left: 17px; 
+  bottom: 80px; 
+  padding: 4px 10px; 
+  font-size: 40px; 
+   
+  border-radius: 4px;
+  cursor: pointer; 
+  display: none; 
+  text-align: center; 
+  z-index: 10;
+   
+  }  
+  .btncolor {color: #000000;
+    background-color: rgba(255, 255, 255, 0) !important;
+    font-size: 40px; }
+
+
+
+    .w-100 {
+      width: 100%;
+  }
+  
+ 
+  
+  .b--light-silver {
+      border-color: rgba(0, 0, 0, 0.356) !important;
+  }
+  .bt {
+      border-top-style: solid;
+      border-top-width: 2px;
+  }
+  
+      
